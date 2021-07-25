@@ -32,3 +32,6 @@ yum -y install initscripts
 
 **Reference**: 
 https://www.rabbitmq.com/install-rpm.html
+
+RabbitMQ Erlang Version Requirements 
+https://www.rabbitmq.com/which-erlang.html
