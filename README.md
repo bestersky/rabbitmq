@@ -8,9 +8,9 @@ yum install wget -y
 
 **2. Installing on RPM-based Linux **
 Support (RedHat Enterprise Linux, CentOS, Fedora, openSUSE)
-
 yum install -y erlang-23.3.4.5-1.el7.x86_64.rpm
 yum install -y rabbitmq-server-3.9.0-1.el7.noarch.rpm
+
 
 **3. Run RabbitMQ Server**
 Start the Server
