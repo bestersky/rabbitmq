@@ -2,7 +2,7 @@
 
 **1. Preparation**
 
-yum -y install devtoolset-9-gcc devtoolset-9-gcc-c++ devtoolset-9-binutils scl enable devtoolset-9 bash
+###yum -y install devtoolset-9-gcc devtoolset-9-gcc-c++ devtoolset-9-binutils scl enable devtoolset-9 bash
 
 yum install socat logrotate -y
 
